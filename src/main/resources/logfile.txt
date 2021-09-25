@@ -1,0 +1,6 @@
+{ "id": "scsmb5tgra", "state": "STARTED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495212 }
+{ "id": "scsmb5tgrb", "state": "STARTED", "timestamp": 1491377495213 }
+{ "id": "scsmb5tgrc", "state": "FINISHED","timestamp": 1491377495218 }
+{ "id": "scsmb5tgra", "state": "FINISHED", "type": "APPLICATION_LOG", "host": "12345", "timestamp": 1491377495217 }
+{ "id": "scsmb5tgrc", "state": "STARTED",  "timestamp": 1491377495210 }
+{ "id": "scsmb5tgrb", "state": "FINISHED", "timestamp": 1491377495216 }
