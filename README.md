@@ -1,6 +1,7 @@
 # Event-Processing 
 # Steps to run this Application
-Download hsqldb.zip and EventProcessing.zip.  
+Download and extract EventProcessing zip file.  
+You can find hsqldb.zip under extracted Event-Processing-master folder.  
 Extract hsqldb.zip and go to "hsqldb-2.4.1/hsqldb/data" location from command prompt.  
 Start DB Server instance by running below command.  
 java -cp ../lib/hsqldb.jar org.hsqldb.server.Server --database.0 file:hsqldb/eventdb --dbname.0 eventdb.  
